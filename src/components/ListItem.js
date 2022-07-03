@@ -1,6 +1,9 @@
-const ListItem = ({ property, value, level }) => {
+const ListItem = ({ group, display, property, value, level }) => {
+  if (value === "") {
+    value = '" "';
+  }
   return (
-    <li className="hidden">
+    <li className={display ? group : `hidden ${group}`}>
       <label>
         {property} : {value}
       </label>
