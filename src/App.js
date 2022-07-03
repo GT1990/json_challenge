@@ -22,7 +22,6 @@ function App() {
               display={true}
               property={property}
               node={node}
-              level={1}
             />
           );
         })
