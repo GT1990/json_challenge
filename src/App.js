@@ -16,7 +16,7 @@ function App() {
       const node = data[property];
       return (
         <ul key={index}>
-          <button onClick={() => handleOpenDropDown()}>></button>
+          <button onClick={() => handleOpenDropDown()}>{">"}</button>
           <span>{"{ "}</span>
           <label>{property} :</label>
           <UnorderedList
