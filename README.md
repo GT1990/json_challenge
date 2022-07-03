@@ -5,7 +5,7 @@
   <p align="center">
     Creating a JSON viewer using React and nested HTML elements!
     <br />
-    <a href="">View Demo</a>
+    <a href="https://gt1990.github.io/json_challenge/">View Live Demo</a>
   </p>
 </div>
 
