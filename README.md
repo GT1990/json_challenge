@@ -1,5 +1,5 @@
 <div id="top"></div>
-
+    <img src="src/img/json.png" />
   <h2 align="center">JSON Challenge</h2>
 
   <p align="center">
@@ -17,7 +17,7 @@
 
 ## About The Project
 
-[![JSON Challenge Screen Shot][project-screenshot]](src/img/screenShot.png)
+![JSON Challenge Screen Shot][project-screenshot](src/img/screenShot.png)
 
 ### Objective
 
