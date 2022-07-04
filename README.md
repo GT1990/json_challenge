@@ -34,6 +34,7 @@ The objective of this challenge was to import a JSON file and create a JSON view
 <p>
 What I found intriguing about react was the ability to break up my code into smaller components. I found this to be a cleaner and more organized method to write code.
 <br />
+<br />
 During this project I found myself writing duplicated code at first. I was using the same function twice to update local state on a click event. What I learned was that I could simply place that function in its own file, pass it the props, such as a reference to the setter method of the useState hook, and exported where ever I found myself needing it.
 </p>
 
@@ -45,6 +46,7 @@ I learned recently that Arrays are a special type of object in JavaScript. Knowi
 <h4>Something I Found Challenging</h4>
 <p>
 Traversing through the json object wasn't too difficult. What I found challenging was now using that data by creating nested html elements. Appending child nodes to their parent elements using html element is easier, in my opinion, than working with react elements. I could have just used the .appendChild method to nest child nodes.
+<br />
 <br />
 My solution to this problem was recursively nesting the child components and passing down the data through props. To break out of the recursion calls I used the point I mentioned above to check if I found the end node with no more nested data.
 </p>
