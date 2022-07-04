@@ -1,7 +1,7 @@
 <div id="top"></div>
-<span align="center">
+<p align="center">
     <img src="src/img/json.png" width="100px"/>
-    </span>
+</p>
   <h2 align="center">JSON Challenge</h2>
 
   <p align="center">
