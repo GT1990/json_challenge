@@ -1,5 +1,5 @@
 <div id="top"></div>
-    <img src="src/img/json.png" width="100px"/>
+    <img src="src/img/json.png" align="center" width="100px"/>
   <h2 align="center">JSON Challenge</h2>
 
   <p align="center">
