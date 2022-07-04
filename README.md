@@ -19,7 +19,7 @@
 
 ## About The Project
 
-![JSON Challenge Screen Shot][project-screenshot](src/img/screenShot.png)
+![JSON Challenge Screen Shot](src/img/screenShot.png)
 
 ### Objective
 
@@ -50,7 +50,7 @@ The project was created using create-react-app.
 ```
 
 2. Run project on localhost:3000
+
    ```sh
    npm run start
    ```
-   ``
