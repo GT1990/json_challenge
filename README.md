@@ -12,19 +12,39 @@
     </p>
 </div>
 
+<br />
+<hr />
+<br />
+
 <!-- TABLE OF CONTENTS -->
 
-// TODO: write table of contents here
+- [About The Project](#about-the-project)
+  - [Objective](#objective)
+  - [Project Summary](#project-summary)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+
+<br />
+<hr />
+<br />
 
 ## About The Project
 
 ![JSON Challenge Screen Shot](src/img/screenShot.png)
+
+<br />
+<hr />
+<br />
 
 ### Objective
 
 <p>
 The objective of this challenge was to import a JSON file and create a JSON viewer using React. The JSON viewer traverses through the JSON object and displays the data in nested HTML elements.
 </p>
+
+<br />
+<hr />
+<br />
 
 ### Project Summary
 
@@ -54,6 +74,10 @@ My solution to this problem was recursively nesting the child components and pas
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<br />
+<hr />
+<br />
+
 ### Built With
 
 The project was created using create-react-app.
@@ -61,6 +85,10 @@ The project was created using create-react-app.
 - [React.js](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<br />
+<hr />
+<br />
 
 ## Getting Started
 
